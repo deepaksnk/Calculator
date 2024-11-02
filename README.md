@@ -51,8 +51,8 @@ This repository hosts the **Calculator Project**, implemented in both Flowgorith
 ## Project Structure
 ```
 Calculator/
-|-- Calculator.fprg
 |-- Calculator.c
+|-- Calculator.fprg
 |-- README.md
 ```
 
