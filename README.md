@@ -1,1 +1,74 @@
 # Calculator
+
+## Project Overview
+This repository hosts the **Calculator Project**, implemented in both Flowgorithm and C programming language. Both versions include comprehensive functionality for performing various mathematical operations, with the Flowgorithm version providing a flowchart-based interface and the C version offering a command-line application.
+
+## Features
+- Basic arithmetic operations: addition, subtraction, multiplication, and division
+- Advanced operations: trigonometric functions
+- Matrix operations: addition, subtraction, multiplication, determinants, and transposition
+- Vector operations: addition, subtraction, dot product, cross product, and angle calculation
+- Complex number operations: addition, subtraction, multiplication, and division
+- Fraction operations: addition, subtraction, multiplication, and division
+- User-friendly interfaces (Flowchart in Flowgorithm and command-line in C)
+- Error handling for invalid inputs and divide-by-zero scenarios
+
+## Installation
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/calculator-project.git
+   ```
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd calculator-project
+   ```
+
+### For Flowgorithm
+- **Open the Flowgorithm file**:
+  Launch Flowgorithm and open the `Calculator.fprg` file included in the repository.
+
+### For C Version
+1. **Compile the C code**:
+   ```bash
+   gcc Calculator.c -o calculator -lm
+   ```
+
+2. **Run the compiled program**:
+   ```bash
+   ./calculator
+   ```
+
+## Usage
+### Flowgorithm Version
+- Open Flowgorithm and load `Calculator.fprg`.
+- Click 'Run' and follow the prompts for input and operation selection.
+
+### C Version
+- Run the compiled program.
+- Follow the on-screen prompts to select and perform operations.
+
+## Project Structure
+```
+calculator-project/
+|-- Calculator.fprg
+|-- Calculator.c
+|-- README.md
+|-- LICENSE
+```
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contributing
+We welcome contributions! Please read `CONTRIBUTING.md` for guidelines on contributing to this project.
+
+## Contact
+For any inquiries or feedback, please contact:
+- **Your Name**
+- **Email**: your.email@example.com
+- **GitHub**: [your-username](https://github.com/your-username)
+
+---
+Thank you for checking out the Calculator Project. Enjoy visualizing and executing calculations!
+
