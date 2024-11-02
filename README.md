@@ -1,7 +1,7 @@
 # Calculator
 
 ## Project Overview
-This repository hosts the **Calculator Project**, implemented in both Flowgorithm and C programming language. Both versions include comprehensive functionality for performing various mathematical operations, with the Flowgorithm version providing a flowchart-based interface and the C version offering a command-line application.
+This repository hosts the **Calculator**, implemented in both Flowgorithm and C programming language. Both versions include comprehensive functionality for performing various mathematical operations, with the Flowgorithm version providing a flowchart-based interface and the C version offering a command-line application.
 
 ## Features
 - Basic arithmetic operations: addition, subtraction, multiplication, and division
