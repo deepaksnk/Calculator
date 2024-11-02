@@ -57,17 +57,11 @@ calculator-project/
 |-- LICENSE
 ```
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Contributing
-We welcome contributions! Please read `CONTRIBUTING.md` for guidelines on contributing to this project.
-
 ## Contact
 For any inquiries or feedback, please contact:
-- **Your Name**
-- **Email**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Deepak**
+- **Email**: ssdeepaksv@gmail.com
+- **GitHub**: [GitHub Profile](https://github.com/deepaksnk)
 
 ---
 Thank you for checking out the Calculator Project. Enjoy visualizing and executing calculations!
