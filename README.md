@@ -59,7 +59,7 @@ calculator-project/
 
 ## Contact
 For any inquiries or feedback, please contact:
-- **Deepak**
+- **Deepak Somasekar S**
 - **Email**: ssdeepaksv@gmail.com
 - **GitHub**: [GitHub Profile](https://github.com/deepaksnk)
 
