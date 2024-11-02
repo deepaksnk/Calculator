@@ -16,12 +16,12 @@ This repository hosts the **Calculator Project**, implemented in both Flowgorith
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/calculator-project.git
+   git clone https://github.com/deepaksnk/Calculator.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd calculator-project
+   cd Calculator
    ```
 
 ### For Flowgorithm
@@ -50,11 +50,10 @@ This repository hosts the **Calculator Project**, implemented in both Flowgorith
 
 ## Project Structure
 ```
-calculator-project/
+Calculator/
 |-- Calculator.fprg
 |-- Calculator.c
 |-- README.md
-|-- LICENSE
 ```
 
 ## Contact
