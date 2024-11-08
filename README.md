@@ -13,7 +13,7 @@ This repository hosts the **Calculator**, implemented in both Flowgorithm and C 
 - User-friendly interfaces (Flowchart in Flowgorithm and command-line in C)
 - Error handling for invalid inputs and divide-by-zero scenarios
 
-## Installation 
+## Installation  
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/deepaksnk/Calculator.git
